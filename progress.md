@@ -4,17 +4,22 @@
 
 | # | Date | Topics | Quiz score | Surprise test |
 |---|---|---|---|---|
-| 1 | 2026-10-20 | The exam & exemptions (Rule 6); who must appoint IDs (Sec 149(4), Rule 4, LODR Reg 17); independence criteria (Sec 149(6), LODR Reg 16(1)(b)) | pending | no |
+| 1 | 2026-10-20 | The exam & exemptions (Rule 6); who must appoint IDs (Sec 149(4), Rule 4, LODR Reg 17); independence criteria (Sec 149(6), LODR Reg 16(1)(b)) | 8/10 (80%) | no |
 
 ## Per-topic accuracy
 
 | Topic | Questions attempted | Correct | Accuracy |
 |---|---|---|---|
-| A1 Independence criteria | 0 | 0 | – |
-| A2 Companies requiring IDs | 0 | 0 | – |
-| A3 Databank & proficiency test | 0 | 0 | – |
-| B1 LODR ID definition & board composition | 0 | 0 | – |
+| A1 Independence criteria | 3 | 3 | 100% |
+| A2 Companies requiring IDs | 3 | 3 | 100% |
+| A3 Databank & proficiency test | 2 | 1 | 50% |
+| B1 LODR ID definition & board composition | 3 | 2 | 67% |
 
 ## Current weak areas
 
-None identified yet. The first graded quiz will set the baseline.
+Overall: 8/10 (80%) after 1 session.
+
+- **A3 exemptions (50%):** overlapping service periods count only once toward the 3-year route.
+- **B1 Reg 17(1)(b) (67%):** an executive or promoter chair means 1/2 of the board must be IDs, not 1/3.
+
+Both are due for spaced revision in Session 2.

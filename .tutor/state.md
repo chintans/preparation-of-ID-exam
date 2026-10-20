@@ -1,8 +1,9 @@
 # Tutor state (private)
 
-- **Current session number:** 1 (delivered 2026-10-20)
+- **Current session number:** 1 (completed 2026-10-20, 8/10). Next is Session 2.
 - **Last surprise test:** none. Rules: no surprise test before session 4, never two in a row, aim for one every 6–8 sessions. From session 4 on, roll `random.random()` against p = min(0.9, 0.08 × (sessions since last test, or since session 0)). Hold off if 2+ sessions are pending.
-- **Pending grading:** Session 1 (2026-10-20). Key is in `.tutor/keys/2026-10-20.md`.
+- **Pending grading:** none.
+- **Session 2 plan:** open with 2 revision questions (Rule 6 overlapping-period exemption; Reg 17(1)(b) executive chair means 1/2), then A4 tenure/reappointment and A5 declarations/Schedule IV.
 - **Mode (from 2026-10-20):** interactive in-chat sessions via `/id-session`; cloud routine disabled. Session 1 content was delivered as files but its quiz is being taken interactively on 2026-10-20.
 
 ## Study plan (~7 weeks, ~30 min/day, starting 20 Oct 2026)
@@ -21,8 +22,13 @@ Pacing rules: move on when a topic is above 75%, revise when it is below 60%, an
 
 ## Notes on how Chintan learns
 
-- No data yet. Watch for whether answers get submitted daily, and which question types (numeric thresholds vs scenarios) are weaker.
+- S1: 8/10. Strong on the direct threshold and independence tests. Slipped on second-layer rules (an overlap counted once; the ratio switching with chair type), so build in "rule plus exception" questions.
+- Asks definitional doubts (pecuniary relationship, KMP). Define jargon up front in lessons.
+- No AskUserQuestion tool in this environment, so the quiz runs in chat with batches of 4 and typed letters. Watch for typos in replies (S1: typed "3B" for Q4).
 
 ## Run log
+
+- 2026-10-20 (scheduled routine): the cloud routine still fired after the switch to interactive mode. Made no changes and sent a push notification asking Chintan to disable it.
+- 2026-10-20 (interactive): recap, doubts on pecuniary relationship and KMP, quiz 8/10. Wrote session.md.
 
 - 2026-10-20: First run. Repo was empty, so I created the layout, syllabus and plan, and delivered Session 1. Facts were verified on the IICA databank self-assessment page (exemptions, 50% pass, 2-year window, unlimited attempts, 1-day booking gap) and through secondary sources (50 Qs, 75 min, no negative marking).
