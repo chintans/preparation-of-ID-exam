@@ -3,7 +3,7 @@
 - **Current session number:** 1 (delivered 2026-10-20)
 - **Last surprise test:** none. Rules: no surprise test before session 4, never two in a row, aim for one every 6–8 sessions. From session 4 on, roll `random.random()` against p = min(0.9, 0.08 × (sessions since last test, or since session 0)). Hold off if 2+ sessions are pending.
 - **Pending grading:** Session 1 (2026-10-20). Key is in `.tutor/keys/2026-10-20.md`.
-- **Email:** Gmail connector available (sent on session 1; see the log below).
+- **Mode (from 2026-10-20):** interactive in-chat sessions via `/id-session`; cloud routine disabled. Session 1 content was delivered as files but its quiz is being taken interactively on 2026-10-20.
 
 ## Study plan (~7 weeks, ~30 min/day, starting 20 Oct 2026)
 
