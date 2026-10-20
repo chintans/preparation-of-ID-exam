@@ -1,0 +1,19 @@
+# Session 1 – Your answers (20 Oct 2026)
+
+Write one letter after each colon, then commit and push (or edit on GitHub) before 10 AM tomorrow.
+
+Q1: 
+Q2: 
+Q3: 
+Q4: 
+Q5: 
+Q6: 
+Q7: 
+Q8: 
+Q9: 
+Q10: 
+
+## Doubts / questions for tutor
+
+(Write anything here: confusing points, "why not option X", topics you'd like covered sooner.)
+
