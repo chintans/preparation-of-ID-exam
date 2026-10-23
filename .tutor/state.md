@@ -30,6 +30,7 @@ Pacing rules: move on when a topic is above 75%, revise when it is below 60%, an
 
 - 2026-10-20 (scheduled routine): the cloud routine still fired after the switch to interactive mode. Made no changes and sent a push notification asking Chintan to disable it.
 - 2026-10-22 (scheduled routine): routine fired again (2nd time since the switch). No Session 2 yet; 21 Oct missed. Made no lesson files (interactive mode stands) and sent a notification asking Chintan to run /id-session and disable the routine.
+- 2026-10-23 (scheduled routine): routine fired a 3rd time since the switch. Still no Session 2; 21, 22 and 23 Oct missed. Made no lesson files (interactive mode stands) and sent a notification asking Chintan to run /id-session and disable the routine. If it keeps firing with no interactive sessions, consider asking whether to go back to file-based delivery.
 - 2026-10-20 (interactive): recap, doubts on pecuniary relationship and KMP, quiz 8/10. Wrote session.md.
 
 - 2026-10-20: First run. Repo was empty, so I created the layout, syllabus and plan, and delivered Session 1. Facts were verified on the IICA databank self-assessment page (exemptions, 50% pass, 2-year window, unlimited attempts, 1-day booking gap) and through secondary sources (50 Qs, 75 min, no negative marking).
