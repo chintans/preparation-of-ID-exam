@@ -5,6 +5,7 @@
 | # | Date | Topics | Quiz score | Surprise test |
 |---|---|---|---|---|
 | 1 | 2026-10-20 | The exam & exemptions (Rule 6); who must appoint IDs (Sec 149(4), Rule 4, LODR Reg 17); independence criteria (Sec 149(6), LODR Reg 16(1)(b)) | 8/10 (80%) | no |
+| 2 | 2026-10-25 | A4 tenure, reappointment, cooling-off, rotation, Reg 25(2A); A5 declarations & Schedule IV (files; 5 days missed 21–24 Oct) | pending | no |
 
 ## Per-topic accuracy
 

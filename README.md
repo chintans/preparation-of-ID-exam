@@ -11,6 +11,10 @@ This is your personal study repo for the **Independent Director Online Proficien
 
 You never have to edit files yourself.
 
+## If you haven't run a session: daily files
+
+If you don't run `/id-session`, the daily routine leaves the session as files in `sessions/YYYY-MM-DD/`: read `lesson.md`, answer `quiz.md` in `answers.md` (e.g. `Q1: B`), then push or edit on GitHub before 10 AM the next day. The next run grades it. Please don't open `.tutor/keys/`, because it holds the answer keys.
+
 ## Files (the tutor's memory)
 
 | File / folder | What it is |

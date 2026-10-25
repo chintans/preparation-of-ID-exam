@@ -11,8 +11,8 @@ Status key: `not started` · `learning` · `needs revision` · `strong`
 | A1 | Who is an independent director (ID): definition & independence criteria | Sec 149(6), Rule 5 (AQD Rules), Sec 2(76) relative | strong |
 | A2 | Which companies must appoint IDs; number required | Sec 149(4), Rule 4 | strong |
 | A3 | ID databank & online proficiency test | Sec 150, Rule 6 | needs revision |
-| A4 | Appointment, tenure, reappointment, cooling-off, rotation | Sec 149(10), (11), (13); Sec 152; Sec 150 | not started |
-| A5 | Declaration of independence, Code for IDs (Schedule IV), separate meeting | Sec 149(7), (8); Schedule IV | not started |
+| A4 | Appointment, tenure, reappointment, cooling-off, rotation | Sec 149(10), (11), (13); Sec 152; Sec 150 | learning |
+| A5 | Declaration of independence, Code for IDs (Schedule IV), separate meeting | Sec 149(7), (8); Schedule IV | learning |
 | A6 | Remuneration of IDs: sitting fees, commission, no ESOPs | Sec 149(9), Sec 197(5), (7); Rule 4 Remuneration Rules | not started |
 | A7 | Liability of IDs & NEDs | Sec 149(12); Sec 2(60) officer in default; Sec 463 | not started |
 | A8 | Board composition: min/max directors, woman director, resident director | Sec 149(1), (3); Rule 3 | not started |
