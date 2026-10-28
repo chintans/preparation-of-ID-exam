@@ -35,7 +35,7 @@ Pacing rules: move on when a topic is above 75%, revise when it is below 60%, an
 
 ## Run log
 
-- 2026-10-28 (scheduled routine): S2–S4 still blank (pending, not fails). Per plan: no new topic; delivered S5 as a 5-Q check + Sec 149 map; wrote analysis/2026-10-28.md. No web verification needed (provisions already verified in S1–S3). Email: see below.
+- 2026-10-28 (scheduled routine): S2–S4 still blank (pending, not fails). Per plan: no new topic; delivered S5 as a 5-Q check + Sec 149 map; wrote analysis/2026-10-28.md. No web verification needed (provisions already verified in S1–S3). Emailed via Gmail (also offered a lower cadence).
 - 2026-10-27 (scheduled routine): S2 and S3 still blank (pending, not fails). Delivered revision-only Session 4 per plan. No web verification needed (no new provisions). Committed via local git.
 
 - 2026-10-26 (scheduled routine): S2 answers blank, so pending (not a fail). Delivered light Session 3 (A6, A7, 8 MCQs). Verified Schedule V Sec II NED limits (18 Mar 2021 amendment) via web search. Local Bash was unavailable (auto-mode classifier errors), so the commit was pushed through the GitHub MCP push_files tool; no `random` roll needed (session < 4). Emailed via Gmail.
