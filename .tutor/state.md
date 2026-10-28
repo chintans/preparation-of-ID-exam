@@ -1,9 +1,11 @@
 # Tutor state (private)
 
-- **Current session number:** 4 (revision day delivered as files 2026-10-27, quiz pending). Next is Session 5.
-- **Last surprise test:** none. Rules: no surprise test before session 4, never two in a row, aim for one every 6–8 sessions. From session 4 on, roll `random.random()` against p = min(0.9, 0.08 × (sessions since last test, or since session 0)). Hold off if 2+ sessions are pending.
-- **Pending grading:** Session 2 (2026-10-25), Session 3 (2026-10-26), Session 4 (2026-10-27); keys in `.tutor/keys/`. S2 and S3 blank as of 27 Oct run.
-- **Session 5 plan:** if any answers are in, grade them all, write a combined result, and write `analysis/` (Session 5 = 5th session). If at least S4 recap is answered and A4–A7 ≥ 60%, teach A8 board composition (Sec 149(1) min/max directors, woman director per Rule 3, resident director Sec 149(3)) + revise misses. If ALL of S2–S4 are still blank: do not add a new topic; deliver a very short (5-question) A1–A7 mixed check, still write `analysis/2026-10-28.md` focused on consistency, and re-suggest `/id-session`. Surprise-test roll is allowed from S5 only when ≤1 session is pending.
+- **Current session number:** 5 (check-in delivered as files 2026-10-28, quiz pending). Next is Session 6.
+- **Last surprise test:** none. Rules: no surprise test before session 4, never two in a row, aim for one every 6–8 sessions. Roll `random.random()` against p = min(0.9, 0.08 × (sessions since last test, or since session 0)). Hold off if 2+ sessions are pending.
+- **Pending grading:** Session 2 (2026-10-25), Session 3 (2026-10-26), Session 4 (2026-10-27), Session 5 (2026-10-28); keys in `.tutor/keys/`. S2–S4 blank as of 28 Oct run.
+- **Analysis written:** `analysis/2026-10-28.md` (after S5; main finding: consistency, not content). Next analysis after S10 or the first surprise test, or when answers first arrive if trends shift sharply.
+- **Session 6 plan:** if any answers are in, grade ALL pending sessions in one combined `result.md` per session (+ answer-key.md each), update per-topic accuracy, then resume with A8 board composition (Sec 149(1) min/max directors and 15-director cap, woman director per Rule 3, resident director Sec 149(3) 182 days) plus revision of any misses; go at 2 topics/session to recover pace. If ALL of S2–S5 are still blank: do NOT create a new session folder or quiz (avoid piling up). Just add a run-log line, and send a short reminder email pointing to S5 (5 Qs) and `/id-session`. Resume new content only when answers arrive. Consider asking Chintan (in email) whether a lower cadence (e.g. 3 runs/week) would suit better.
+- **(Done) Session 5:** check-in only: Sec 149 one-screen map + 5-Q check (A2 50-cr "exceeding" trap, A1 relative-employee proviso, A3 2-year deadline, A5 evaluation by entire board, A6 sitting fee outside caps). No surprise roll (4 pending).
 - **(Done) Session 4:** revision only, as planned: A4–A7 one-pagers + 6-Q recap (A4 ×2, A5, A6, A7, B1). No surprise roll (2+ pending).
 - **(Old) Session 4 plan:** if Sessions 2 and 3 are still both blank, this makes 2+ pending: do NOT add new topics and do NOT roll for a surprise test. Instead deliver a short revision sheet (A4–A7 one-pagers) plus a 6-question mixed recap, and nudge Chintan. If answers are in: grade both, then A8 board composition (Sec 149(1) min/max directors, woman director per Rule 3, resident director Sec 149(3)) with revision of any misses.
 - **(Done) Session 3:** A6 remuneration (Sec 149(9), 197(1)/(5)/(7), Rule 4 sitting fee Rs 1 lakh, Schedule V Sec II 12/17/24 lakh, Reg 17(6)(a)/(b)/(ca)) and A7 liability (Sec 149(12), 2(60)(vi), 463, MCA GC 01/2020, IBC 66(2)). Light: 8 MCQs incl. 2 revision (A3 overlap, B1 1/3 rounding).
@@ -29,10 +31,11 @@ Pacing rules: move on when a topic is above 75%, revise when it is below 60%, an
 - S1: 8/10. Strong on the direct threshold and independence tests. Slipped on second-layer rules (an overlap counted once; the ratio switching with chair type), so build in "rule plus exception" questions.
 - Asks definitional doubts (pecuniary relationship, KMP). Define jargon up front in lessons.
 - No AskUserQuestion tool in this environment, so the quiz runs in chat with batches of 4 and typed letters. Watch for typos in replies (S1: typed "3B" for Q4).
-- Has not yet submitted any file-based answers (S2 blank after 1 day).
+- Has not yet submitted any file-based answers (S2–S4 blank as of 28 Oct). Chat mode worked better (S1); keep nudging `/id-session`.
 
 ## Run log
 
+- 2026-10-28 (scheduled routine): S2–S4 still blank (pending, not fails). Per plan: no new topic; delivered S5 as a 5-Q check + Sec 149 map; wrote analysis/2026-10-28.md. No web verification needed (provisions already verified in S1–S3). Email: see below.
 - 2026-10-27 (scheduled routine): S2 and S3 still blank (pending, not fails). Delivered revision-only Session 4 per plan. No web verification needed (no new provisions). Committed via local git.
 
 - 2026-10-26 (scheduled routine): S2 answers blank, so pending (not a fail). Delivered light Session 3 (A6, A7, 8 MCQs). Verified Schedule V Sec II NED limits (18 Mar 2021 amendment) via web search. Local Bash was unavailable (auto-mode classifier errors), so the commit was pushed through the GitHub MCP push_files tool; no `random` roll needed (session < 4). Emailed via Gmail.
