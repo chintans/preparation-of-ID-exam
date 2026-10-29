@@ -8,7 +8,8 @@
 | 2 | 2026-10-25 | A4 tenure, reappointment, cooling-off, rotation, Reg 25(2A); A5 declarations & Schedule IV (files; 5 days missed 21–24 Oct) | pending (blank on 26 Oct) | no |
 | 3 | 2026-10-26 | A6 ID remuneration (Sec 149(9), 197, Schedule V, Reg 17(6)); A7 ID liability (Sec 149(12), 2(60), 463) (light session) | pending (blank on 27 Oct) | no |
 | 4 | 2026-10-27 | Revision only: A4–A7 one-page sheet + 6-Q recap (A4, A5, A6, A7, B1); no new topic because S2 and S3 were pending | pending (blank on 28 Oct) | no |
-| 5 | 2026-10-28 | Check-in only: Sec 149 one-screen map + 5-Q check (A2, A1, A3, A5, A6); no new topic because S2–S4 were pending; analysis written | pending | no |
+| 5 | 2026-10-28 | Check-in only: Sec 149 one-screen map + 5-Q check (A2, A1, A3, A5, A6); no new topic because S2–S4 were pending; analysis written | pending (blank on 29 Oct) | no |
+| – | 2026-10-29 | No new session: S2–S5 pending (29 MCQs). Reminder only | – | no |
 
 ## Per-topic accuracy
 
