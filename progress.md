@@ -10,6 +10,7 @@
 | 4 | 2026-10-27 | Revision only: A4–A7 one-page sheet + 6-Q recap (A4, A5, A6, A7, B1); no new topic because S2 and S3 were pending | pending (blank on 28 Oct) | no |
 | 5 | 2026-10-28 | Check-in only: Sec 149 one-screen map + 5-Q check (A2, A1, A3, A5, A6); no new topic because S2–S4 were pending; analysis written | pending (blank on 29 Oct) | no |
 | – | 2026-10-29 | No new session: S2–S5 pending (29 MCQs). Reminder only | – | no |
+| – | 2026-10-30 | No new session: S2–S5 still pending (29 MCQs). Reminder only | – | no |
 
 ## Per-topic accuracy
 
