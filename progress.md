@@ -12,6 +12,7 @@
 | – | 2026-10-29 | No new session: S2–S5 pending (29 MCQs). Reminder only | – | no |
 | – | 2026-10-30 | No new session: S2–S5 still pending (29 MCQs). Reminder only | – | no |
 | – | 2026-10-31 | No new session: S2–S5 still pending (29 MCQs). Logged only, no email | – | no |
+| – | 2026-11-01 | No new session: S2–S5 still pending (29 MCQs). Short reminder email (every-other-day schedule) | – | no |
 
 ## Per-topic accuracy
 
