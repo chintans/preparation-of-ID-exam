@@ -2,7 +2,7 @@
 
 - **Current session number:** 5 (check-in delivered as files 2026-10-28, quiz pending). Next is Session 6.
 - **Last surprise test:** none. Rules: no surprise test before session 4, never two in a row, aim for one every 6–8 sessions. Roll `random.random()` against p = min(0.9, 0.08 × (sessions since last test, or since session 0)). Hold off if 2+ sessions are pending.
-- **Pending grading:** Session 2 (2026-10-25), Session 3 (2026-10-26), Session 4 (2026-10-27), Session 5 (2026-10-28); keys in `.tutor/keys/`. All four blank as of 2 Nov run (5th consecutive hold day); no email reply to the cadence question.
+- **Pending grading:** Session 2 (2026-10-25), Session 3 (2026-10-26), Session 4 (2026-10-27), Session 5 (2026-10-28); keys in `.tutor/keys/`. All four blank as of 3 Nov run (6th consecutive hold day); no email reply. **PAUSED** from 3 Nov: pause + Mon/Wed/Fri restart proposal emailed.
 - **Analysis written:** `analysis/2026-10-28.md` (after S5; main finding: consistency, not content). Next analysis after S10 or the first surprise test, or when answers first arrive if trends shift sharply.
 - **Session 6 plan:** if any answers are in, grade ALL pending sessions in one combined `result.md` per session (+ answer-key.md each), update per-topic accuracy, then resume with A8 board composition (Sec 149(1) min/max directors and 15-director cap, woman director per Rule 3, resident director Sec 149(3) 182 days) plus revision of any misses; go at 2 topics/session to recover pace. If ALL of S2–S5 are still blank: do NOT create a new session folder or quiz (avoid piling up). Just add a run-log line, and send a short reminder email pointing to S5 (5 Qs) and `/id-session`. Resume new content only when answers arrive. Consider asking Chintan (in email) whether a lower cadence (e.g. 3 runs/week) would suit better.
 - **(Done) Session 5:** check-in only: Sec 149 one-screen map + 5-Q check (A2 50-cr "exceeding" trap, A1 relative-employee proviso, A3 2-year deadline, A5 evaluation by entire board, A6 sitting fee outside caps). No surprise roll (4 pending).
@@ -33,7 +33,14 @@ Pacing rules: move on when a topic is above 75%, revise when it is below 60%, an
 - No AskUserQuestion tool in this environment, so the quiz runs in chat with batches of 4 and typed letters. Watch for typos in replies (S1: typed "3B" for Q4).
 - Has not yet submitted any file-based answers (S2–S4 blank as of 28 Oct). Chat mode worked better (S1); keep nudging `/id-session`.
 
+## Pause rules (from 2026-11-03)
+- Each run: pull, check all answers.md and Doubts, and search Gmail for a reply ("restart" or day preferences). If nothing has arrived, add a one-line run-log entry, send no email, and create no folder or quiz.
+- One nudge email on 10 Nov if still blank, then at most weekly.
+- On restart: grade everything pending (S2–S5), then Session 6 = A8 board composition + revision of misses. If Chintan agrees, switch to Mon/Wed/Fri cadence (skip content on other days, still grade).
+
 ## Run log
+
+- 2026-11-03 (scheduled routine): S2–S5 still blank; Gmail shows only the tutor's own emails. Per plan: sent ONE email proposing a pause plus a Mon/Wed/Fri restart (restart = fill S5, run /id-session, or reply "restart"). New content paused. No folder or quiz, no surprise roll.
 
 - 2026-11-02 (scheduled routine): S2–S5 still blank; Gmail shows no reply (3 tutor-only threads in last 4 days). Per plan: log only, no email, no new folder/quiz, no surprise roll. Next: 3 Nov, if still blank, send ONE email proposing a pause plus a 3-runs/week restart (e.g. Mon/Wed/Fri), then hold new content until Chintan replies (log-only runs, email at most weekly).
 - 2026-11-01 (scheduled routine): S2–S5 still blank (answers and Doubts sections); Gmail shows no reply (only the tutor's own emails). Per plan: no new folder/quiz, no surprise roll; sent the short every-other-day reminder. Next: 2 Nov log only (no email). 3 Nov: if still blank, send the pause + 3-runs/week restart proposal and then hold new content until Chintan replies (log-only runs, email at most weekly).
