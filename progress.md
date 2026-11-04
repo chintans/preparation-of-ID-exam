@@ -15,6 +15,7 @@
 | – | 2026-11-01 | No new session: S2–S5 still pending (29 MCQs). Short reminder email (every-other-day schedule) | – | no |
 | – | 2026-11-02 | No new session: S2–S5 still pending (29 MCQs). Log only, no email (every-other-day schedule) | – | no |
 | – | 2026-11-03 | PAUSED: S2–S5 still pending (29 MCQs). Emailed a pause + Mon/Wed/Fri restart proposal | – | no |
+| – | 2026-11-04 | PAUSED: S2–S5 still pending (29 MCQs). Log only, no email | – | no |
 
 ## Per-topic accuracy
 
