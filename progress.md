@@ -32,6 +32,7 @@
 | – | 2026-11-18 | PAUSED: S2–S5 still pending (29 MCQs). Log only, no email | – | no |
 | – | 2026-11-19 | PAUSED: S2–S5 still pending (29 MCQs). Log only, no email | – | no |
 | – | 2026-11-20 | PAUSED: S2–S5 still pending (29 MCQs). Log only, no email | – | no |
+| – | 2026-11-21 | PAUSED: S2–S5 still pending (29 MCQs). Log only, no email | – | no |
 
 ## Per-topic accuracy
 
